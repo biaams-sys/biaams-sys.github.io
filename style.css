@@ -1,0 +1,162 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  transition: all 0.3s ease; 
+}
+
+body {
+  line-height: 1.6;
+  background-color: #000000; 
+  color: #f5f5f5; 
+}
+
+
+header {
+  background: #44008c; 
+  color: white;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  font-size: 1.8rem;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  position: relative;
+}
+
+nav a:hover {
+  color: #ffea00;
+  transform: scale(1.1);
+}
+
+
+section {
+  padding: 50px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+section h2 {
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+
+.sobre {
+  display: flex;               
+  align-items: center;        
+  justify-content: center;     
+  gap: 40px;                   
+  padding: 40px;
+}
+
+.sobre-foto img {
+  width: 200px;                
+  height: 200px;
+  border-radius: 50%;          
+  object-fit: cover;           
+  transition: transform 0.3s ease;
+}
+
+.sobre-foto img:hover {
+  transform: scale(1.05);      
+}
+
+.sobre-texto {
+  max-width: 500px;
+}
+
+
+
+.card {
+  background: #1a1a1a;
+  padding: 20px;
+  border-radius: 12px;
+  margin: 15px 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.6);
+  border-left: 4px solid #44008c; 
+}
+
+.card h3 {
+  color: #c3a6ff; 
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.7);
+}
+
+
+.projetos {
+  display: grid;
+  grid-template-columns: 250px 250px 250px;
+  gap: 20px;
+}
+
+.skills ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: 250px 250px 250px;
+  gap: 10px;
+}
+
+.skills li {
+  background: #44008c;
+  color: white;
+  padding: 12px;
+  text-align: center;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.skills li:hover {
+  background: #5e00cc;
+  transform: scale(1.05);
+}
+
+
+.contato p {
+  margin: 10px 0;
+}
+
+
+button,
+.btn {
+  background-color: #44008c;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover,
+.btn:hover {
+  background-color: #5e00cc;
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
+
+
+footer {
+  background: #111;
+  color: #bbb;
+  text-align: center;
+  padding: 20px;
+}

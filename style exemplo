@@ -1,0 +1,248 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #ffa7c1; 
+    padding: 15px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+main {
+    background-color: #fff;
+    padding: 50px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.imagem-container {
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+}
+
+.imagem-container img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+#sobre {
+    padding: 80px 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+    line-height: 1.6;
+}
+
+#sobre h2 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#sobre p {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #555;
+    font-size: 1.1rem;
+}
+
+.duas-caixas-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#sobre,
+#formacao,
+#projetos,
+#skills {
+    background-color: rgba(255, 167, 193, 0.6);
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    flex: 1 1 350px;
+    max-width: 400px;
+    transition: box-shadow 0.3s, transform 0.3s, background-color 0.3s;
+}
+
+#sobre:hover,
+#formacao:hover,
+#projetos:hover,
+#skills:hover {
+    box-shadow: 0 4px 16px rgba(215, 38, 96, 0.15);
+    transform: translateY(-6px) scale(1.03);
+    background-color: rgba(255, 167, 193, 0.8);
+}
+
+#formacao ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+    margin: 0 auto;
+}
+
+#formacao ul li {
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+.lista-projetos {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.lista-projetos li {
+    background: rgba(255, 167, 193, 0.455);
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    transition: box-shadow 0.3s;
+}
+
+.lista-projetos li:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.lista-projetos a {
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.lista-projetos a:hover {
+    text-decoration: underline;
+}
+
+.skills-container {
+    display: flex;
+    gap: 40px;
+    background-color: rgba(255, 167, 193, 0.25);
+    border-radius: 15px;
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: 0 auto 40px auto;
+    transition: box-shadow 0.3s, transform 0.3s, background-color 0.3s;
+}
+
+.skills-text {
+    flex: 1;
+    text-align: right;
+}
+
+.skills-text h2 {
+    font-size: 2rem;
+    color: #d72660;
+    margin-bottom: 20px;
+}
+
+.skills-text ul {
+    list-style: disc inside;
+    padding-left: 0;
+    color: #333;
+    font-size: 1.1rem;
+}
+
+#projetos,
+#skills {
+    background-color: rgba(255, 167, 193, 0.6);
+    padding: 30px;
+    border-radius: 10px;
+    flex: 1 1 350px;
+    max-width: 400px;
+    transition: box-shadow 0.3s, transform 0.3s, background-color 0.3s;
+}
+
+#projetos:hover,
+#skills:hover {
+    box-shadow: 0 4px 16px rgba(215, 38, 96, 0.15);
+    transform: translateY(-6px) scale(1.03);
+    background-color: rgba(255, 167, 193, 0.8);
+}
+
+.contato-container {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    background-color: rgba(255, 167, 193, 0.6);
+    border-radius: 15px;
+    padding: 40px 30px;
+    max-width: 900px;
+    margin: 40px auto;
+    box-shadow: 0 4px 16px rgba(215, 38, 96, 0.10);
+    transition: box-shadow 0.3s, transform 0.3s, background-color 0.3s;
+}
+
+.contato-container:hover {
+    box-shadow: 0 8px 32px rgba(215, 38, 96, 0.18);
+    transform: translateY(-6px) scale(1.03);
+    background-color: rgba(255, 167, 193, 0.8);
+}
+
+.contato-texto {
+    flex: 2;
+    text-align: left;
+}
+
+.contato-texto h2 {
+    font-size: 2rem;
+    color: #d72660;
+    margin-bottom: 20px;
+}
+
+.contato-texto ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.contato-texto a {
+    color: #d72660;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contato-texto a:hover {
+    text-decoration: underline;
+}
+
+.contato-imagem {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.contato-imagem img {
+    max-width: 180px;
+    border-radius: 10px;
+}
