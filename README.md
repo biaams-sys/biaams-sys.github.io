@@ -1,90 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=230&section=header&text=Beatriz%20Albuquerque&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=260&section=header&text=Beatriz%20Albuquerque&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
-<h1 align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=FF914D&center=true&vCenter=true&width=650&lines=Oii!+Eu+sou+a+Beatriz+🍊;Estudante+de+Desenvolvimento;Turma+de+Olimpíada+de+Mobile+📱;Interesse+em+Backend+e+Design+🎨;Sempre+aprendendo+algo+novo+✨"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=900&color=FF914D&center=true&vCenter=true&width=750&lines=Oii!+Eu+sou+a+Beatriz+🍊;Estudante+de+Desenvolvimento+no+SENAI;Turma+de+Olimpíada+de+Mobile+📱;Backend+%2B+UI%2FUX+Design+✨;Sempre+aprendendo+e+criando+projetos"/>
 
-</h1>
+</div>
 
 ---
 
 <div align="center">
 
-### 🍊 Sobre mim
+![](https://komarev.com/ghpvc/?username=SEUUSERNAME\&color=orange\&style=for-the-badge)
+
+</div>
+
+---
+
+# 🍊 Sobre mim
 
 🎓 Estudante de **Desenvolvimento no SENAI**
-📱 Integrante da **turma de Olimpíada de Desenvolvimento Mobile**
+📱 Faço parte da **turma de Olimpíada de Desenvolvimento Mobile**
 🏅 **Aluna Destaque Bronze** no primeiro semestre do curso
-💻 Interesse em **Backend** e **Design de Interfaces**
-🎨 Gosto de projetos com estética **fofa, criativa e bem pensada**
 
-</div>
+💻 Interesse em **Backend Development**
+🎨 Interesse em **UI / UX Design**
+
+✨ Gosto de unir **tecnologia + estética visual nos projetos**
 
 ---
 
-<div align="center">
+# 🧰 Tecnologias
 
-## 🌼 Tecnologias e Ferramentas
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,figma,html,css,github,vscode"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 🚀 Projetos em destaque
 
-## ✨ Áreas de interesse
+<p align="center">
 
-📱 Desenvolvimento **Mobile**
-🧠 **Backend Development**
-🎨 **UI / UX Design**
-🚀 Criação de projetos e experimentação tecnológica
+<a href="https://github.com/SEUUSERNAME">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=REPOSITORIO1&theme=tokyonight&hide_border=true"/>
+</a>
 
-</div>
+<a href="https://github.com/SEUUSERNAME">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=REPOSITORIO2&theme=tokyonight&hide_border=true"/>
+</a>
 
----
-
-<div align="center">
-
-## 📊 Estatísticas do GitHub
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 🏆 Conquistas
 
-## 🔥 Contribuições
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEUUSERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📊 Estatísticas
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribuições
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
+
+---
+
+# 📈 Atividade
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribuições animadas
+
+<p align="center">
+
+<img src="https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 🍊 Um pouco da minha jornada
-
-💡 Aprendendo programação e construindo projetos
-📚 Sempre explorando novas tecnologias
-🎨 Buscando unir **tecnologia + design**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=140&section=footer"/>
 
 </div>
