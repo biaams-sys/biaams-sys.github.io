@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=260&section=header&text=Beatriz%20Albuquerque&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://media.tenor.com/3bTxZbXbKb8AAAAC/nami-one-piece.gif" width="420"/>
 
-</div>
+# 🍊 Beatriz Albuquerque
 
-<div align="center">
+### ✨ dev girl • mobile olympiad student • backend + design lover ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=900&color=FF914D&center=true&vCenter=true&width=750&lines=Oii!+Eu+sou+a+Beatriz+🍊;Estudante+de+Desenvolvimento+no+SENAI;Turma+de+Olimpíada+de+Mobile+📱;Backend+%2B+UI%2FUX+Design+✨;Sempre+aprendendo+e+criando+projetos"/>
-
-</div>
-
----
-
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF914D&center=true&vCenter=true&width=700&lines=Oii!+eu+sou+a+Beatriz+🍊;estudante+de+desenvolvimento+no+SENAI;turma+de+olimpíada+de+mobile+📱;backend+%2B+UI%2FUX+design+✨;criando+apps+e+interfaces+fofas"/>
 
 ![](https://komarev.com/ghpvc/?username=SEUUSERNAME\&color=orange\&style=for-the-badge)
 
@@ -20,99 +14,90 @@
 
 ---
 
-# 🍊 Sobre mim
+<div align="center">
 
-🎓 Estudante de **Desenvolvimento no SENAI**
-📱 Faço parte da **turma de Olimpíada de Desenvolvimento Mobile**
-🏅 **Aluna Destaque Bronze** no primeiro semestre do curso
+### 🍊 about me
 
-💻 Interesse em **Backend Development**
-🎨 Interesse em **UI / UX Design**
+</div>
 
-✨ Gosto de unir **tecnologia + estética visual nos projetos**
+🎓 estudante de **desenvolvimento no SENAI**
+📱 integrante da **turma de olimpíada de desenvolvimento mobile**
+🏅 **aluna destaque bronze** no primeiro semestre
 
----
-
-# 🧰 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma,html,css,github,vscode"/>
-
-</p>
-
----
-
-# 🚀 Projetos em destaque
-
-<p align="center">
-
-<a href="https://github.com/SEUUSERNAME">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=REPOSITORIO1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SEUUSERNAME">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=REPOSITORIO2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
-
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribuições
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Atividade
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribuições animadas
-
-<p align="center">
-
-<img src="https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
+💻 interesse em **backend development**
+🎨 apaixonada por **UI / UX design**
+✨ gosto de misturar **programação + estética visual**
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=140&section=footer"/>
+### 🧡 tech stack
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma,html,css,github,vscode"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌼 currently learning
+
+</div>
+
+🍊 flutter mobile development
+🍊 design de interfaces
+🍊 fundamentos de backend
+
+---
+
+<div align="center">
+
+### 📊 github stats
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 contribution streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 activity graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🍊 dev journey
+
+✨ aprendendo programação e criando projetos
+✨ explorando backend e mobile development
+✨ buscando unir **tecnologia + design**
+
+</div>
+
+---
+
+<div align="center">
+
+🌼 *building cute things with code*
 
 </div>
