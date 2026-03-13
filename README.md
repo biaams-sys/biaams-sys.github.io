@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://media.tenor.com/3bTxZbXbKb8AAAAC/nami-one-piece.gif" width="420"/>
+<img src="https://i.pinimg.com/originals/5a/7e/6e/5a7e6e7e0f2e5f2d63c8a4c8a9e7d4e5.gif" width="420"/>
 
 # 🍊 Beatriz Albuquerque
 
-### ✨ dev girl • mobile olympiad student • backend + design lover ✨
+### ✨ mobile dev student • backend enthusiast • ui design lover ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF914D&center=true&vCenter=true&width=700&lines=Oii!+eu+sou+a+Beatriz+🍊;estudante+de+desenvolvimento+no+SENAI;turma+de+olimpíada+de+mobile+📱;backend+%2B+UI%2FUX+design+✨;criando+apps+e+interfaces+fofas"/>
-
-![](https://komarev.com/ghpvc/?username=SEUUSERNAME\&color=orange\&style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF914D&center=true&vCenter=true&width=700&lines=Oii!+eu+sou+a+Beatriz+🍊;estudante+de+desenvolvimento+no+SENAI;turma+de+olimpíada+de+mobile+📱;backend+%2B+design+✨"/>
 
 </div>
 
