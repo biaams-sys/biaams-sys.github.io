@@ -1,47 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d6d&height=200&section=header&text=Beatriz%20Albuquerque&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=230&section=header&text=Beatriz%20Albuquerque&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=800&color=FF4D6D&center=true&vCenter=true&width=500&lines=Oi!+Eu+sou+a+Beatriz+👋;Estudante+de+Tecnologia;Aprendendo+Flutter+e+Dart;Criando+projetos+e+interfaces+🎨"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=FF914D&center=true&vCenter=true&width=650&lines=Oii!+Eu+sou+a+Beatriz+🍊;Estudante+de+Desenvolvimento;Turma+de+Olimpíada+de+Mobile+📱;Interesse+em+Backend+e+Design+🎨;Sempre+aprendendo+algo+novo+✨"/>
+
 </h1>
 
 ---
 
-## 🌸 Sobre mim
-
-* 🎓 Estudante do SESI
-* 💻 Aprendendo **Flutter e Dart**
-* 🎨 Gosto de **UI Design e prototipagem no Figma**
-* 🚀 Criando projetos para melhorar minhas habilidades em programação
-
----
-
-## 🛠 Tecnologias
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma,html,css,github,vscode"/>
-</p>
-
----
-
-## 📊 Estatísticas
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 🍊 Sobre mim
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+🎓 Estudante de **Desenvolvimento no SENAI**
+📱 Integrante da **turma de Olimpíada de Desenvolvimento Mobile**
+🏅 **Aluna Destaque Bronze** no primeiro semestre do curso
+💻 Interesse em **Backend** e **Design de Interfaces**
+🎨 Gosto de projetos com estética **fofa, criativa e bem pensada**
 
 </div>
 
 ---
 
-## 🔥 Streak
+<div align="center">
+
+## 🌼 Tecnologias e Ferramentas
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma,html,css,github,vscode"/>
+
+</div>
+
+---
 
 <div align="center">
+
+## ✨ Áreas de interesse
+
+📱 Desenvolvimento **Mobile**
+🧠 **Backend Development**
+🎨 **UI / UX Design**
+🚀 Criação de projetos e experimentação tecnológica
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Estatísticas do GitHub
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribuições
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true"/>
 
@@ -49,22 +71,20 @@
 
 ---
 
-## 🐍 Contribuições
-
 <div align="center">
 
-<img src="https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg"/>
+### 🍊 Um pouco da minha jornada
+
+💡 Aprendendo programação e construindo projetos
+📚 Sempre explorando novas tecnologias
+🎨 Buscando unir **tecnologia + design**
 
 </div>
 
 ---
 
-## 🌎 Conecte-se comigo
-
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=120&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d6d&height=120&section=footer"/>
