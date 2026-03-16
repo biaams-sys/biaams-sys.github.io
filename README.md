@@ -1,36 +1,33 @@
-# ⚡ 𝓫𝓲𝓪𝓪𝓶𝓼-𝓼𝔂𝓼 | Systems Development & Mobile Engineering
+# ⚡ 𝓫𝓲𝓪𝓪𝓶𝓼-𝓼𝔂𝓼 | Mobile & Backend Engineering
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eHFrZ3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Jm09ZTM/oYt9j35A6M/giphy.gif" width="800" alt="Anime Tech Banner">
+  <img src="https://raw.githubusercontent.com/judygab/judygab/main/assets/working-on-pc.gif" width="800" alt="Anime Tech Aesthetic">
 </p>
 
 ## 📂 Professional Overview
-Desenvolvedora de Sistemas em formação técnica pelo **SENAI**, com foco em arquitetura de software e interfaces de alta fidelidade. Atualmente, integro a equipe de **Olimpíadas de Conhecimento (Mobile)**, desenvolvendo soluções escaláveis e performáticas.
+Desenvolvedora de Sistemas (DS) em formação técnica pelo **SENAI Jaguariúna**. Integrante da equipe de **Olimpíadas de Mobile**, focada em arquitetura de software escalável. Especialista em unir a lógica robusta do **Backend** à precisão visual do **UI/UX Design**.
 
 ---
 
-### 🏆 Competitive Programming & Education
-* **SENAI Technical Education:** Systems Development (DS).
-* **Mobile Olympiad Team:** Treinamento intensivo em desenvolvimento mobile nativo/híbrido e lógica avançada.
-* **Focus Areas:** Gerenciamento de estado, consumo de APIs e persistência de dados local.
+### 🏅 Honors & Awards
+* **Medalha de Bronze | Aluna Destaque:** Reconhecimento por excelência acadêmica, técnica e comportamental no SENAI Jaguariúna.
+* **Mobile Olympiad Competitor:** Desenvolvimento de soluções mobile de alta performance sob critérios de competição internacional.
 
 ---
 
-### 🛠️ Tech Stack & Systems Architecture
+### 🛠️ Tech Stack & Architecture
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend & Logic** | Node.js, Express, MySQL, Dart, Java |
-| **Mobile Development** | Flutter, Mobile Architecture, State Management |
-| **Design & UX** | Figma, UI Design Systems, Prototyping |
-| **Tools** | Git/GitHub, Docker, Postman |
+| **Logic & Backend** | Node.js, Express, MySQL, Java, Dart |
+| **Mobile Dev** | Flutter, State Management (Riverpod/Provider), Architecture |
+| **Design & Tools** | Figma (Advanced UI/UX), Git/GitHub, Docker, Linux |
 
 ---
 
-### 🚀 Active Projects
-* **Mobile Olympiad Challenges:** Repositório de algoritmos e interfaces otimizadas para competições.
-* **Backend Systems:** Desenvolvimento de APIs robustas utilizando Node.js e modelagem relacional.
-* **UI/UX Case Studies:** Protótipos de alta fidelidade focados em acessibilidade e estética minimalista.
+### 🚀 High-Impact Projects
+* **Olympiad Architecture:** Repositório dedicado a padrões de projeto e algoritmos otimizados para competições mobile.
+* **Fullstack Solutions:** Desenvolvimento de APIs RESTful integradas a interfaces mobile de alta fidelidade.
 
 ---
 
@@ -45,12 +42,11 @@ Desenvolvedora de Sistemas em formação técnica pelo **SENAI**, com foco em ar
 
 ---
 
-### 🌐 Connectivity & Research
+### 🌐 Connectivity
 * **LinkedIn:** [Beatriz M. S.](seu-link-aqui)
-* **Design Portfolio:** [Figma Community / Portfolio](seu-link-aqui)
-* **Goal:** International Relations & Technological Integration
+* **Design Portfolio:** [Figma Community](seu-link-aqui)
 
 ---
 <p align="center">
-  <sub>"The code is the foundation, the design is the soul."</sub>
+  <sub>"Excellence is not a skill, it is an attitude."</sub>
 </p>
