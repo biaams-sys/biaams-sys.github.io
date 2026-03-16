@@ -18,13 +18,13 @@
 
 </div>
 
-🎓 estudante de **desenvolvimento no SENAI**
-📱 integrante da **turma de olimpíada de desenvolvimento mobile**
-🏅 **aluna destaque bronze** no primeiro semestre
+🎓 Estudante de **desenvolvimento no SENAI**
+📱 Integrante da **turma de olimpíada de desenvolvimento mobile**
+🏅 **Aluna destaque bronze** no primeiro semestre
 
-💻 interesse em **backend development**
-🎨 apaixonada por **UI / UX design**
-✨ gosto de misturar **programação + estética visual**
+💻 Interesse em **backend development**
+🎨 Apaixonada por **UI / UX design**
+✨ Gosto de misturar **programação + estética visual**
 
 ---
 
