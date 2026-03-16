@@ -1,101 +1,56 @@
-<div align="center">
+# ⚡ 𝓫𝓲𝓪𝓪𝓶𝓼-𝓼𝔂𝓼 | Systems Development & Mobile Engineering
 
-<img src="https://i.pinimg.com/originals/5a/7e/6e/5a7e6e7e0f2e5f2d63c8a4c8a9e7d4e5.gif" width="420"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eHFrZ3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Jm09ZTM/oYt9j35A6M/giphy.gif" width="800" alt="Anime Tech Banner">
+</p>
 
-#  Beatriz Albuquerque
-
-###  mobile dev student • backend enthusiast • ui design lover 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF914D&center=true&vCenter=true&width=700&lines=Oii!+eu+sou+a+Beatriz+;Estudante+de+desenvolvimento+no+SENAI;Turma+de+olimpíada+de+mobile+;Backend+%2B+Design+"/>
-
-</div>
+## 📂 Professional Overview
+Desenvolvedora de Sistemas em formação técnica pelo **SENAI**, com foco em arquitetura de software e interfaces de alta fidelidade. Atualmente, integro a equipe de **Olimpíadas de Conhecimento (Mobile)**, desenvolvendo soluções escaláveis e performáticas.
 
 ---
 
-<div align="center">
-
-###  about me
-
-</div>
-
-🎓 Estudante de **desenvolvimento no SENAI**
-📱 Integrante da **turma de olimpíada de desenvolvimento mobile**
-🏅 **Aluna destaque bronze** no primeiro semestre
-
-💻 Interesse em **backend development**
-🎨 Apaixonada por **UI / UX design**
-✨ Gosto de misturar **programação + estética visual**
+### 🏆 Competitive Programming & Education
+* **SENAI Technical Education:** Systems Development (DS).
+* **Mobile Olympiad Team:** Treinamento intensivo em desenvolvimento mobile nativo/híbrido e lógica avançada.
+* **Focus Areas:** Gerenciamento de estado, consumo de APIs e persistência de dados local.
 
 ---
 
-<div align="center">
+### 🛠️ Tech Stack & Systems Architecture
 
-###  tech stack
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma,html,css,github,vscode"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌼 currently learning
-
-</div>
-
- flutter mobile development
- design de interfaces
- fundamentos de backend
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend & Logic** | Node.js, Express, MySQL, Dart, Java |
+| **Mobile Development** | Flutter, Mobile Architecture, State Management |
+| **Design & UX** | Figma, UI Design Systems, Prototyping |
+| **Tools** | Git/GitHub, Docker, Postman |
 
 ---
 
-<div align="center">
-
-###  github stats
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+### 🚀 Active Projects
+* **Mobile Olympiad Challenges:** Repositório de algoritmos e interfaces otimizadas para competições.
+* **Backend Systems:** Desenvolvimento de APIs robustas utilizando Node.js e modelagem relacional.
+* **UI/UX Case Studies:** Protótipos de alta fidelidade focados em acessibilidade e estética minimalista.
 
 ---
 
-<div align="center">
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biaams-sys&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5" alt="GitHub Stats">
+</p>
 
-###  contribution streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 activity graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaams-sys&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages">
+</p>
 
 ---
 
-<div align="center">
-
-###  dev journey
-
-✨ aprendendo programação e criando projetos
-✨ explorando backend e mobile development
-✨ buscando unir **tecnologia + design**
-
-</div>
+### 🌐 Connectivity & Research
+* **LinkedIn:** [Beatriz M. S.](seu-link-aqui)
+* **Design Portfolio:** [Figma Community / Portfolio](seu-link-aqui)
+* **Goal:** International Relations & Technological Integration
 
 ---
-
-<div align="center">
-
-🌼 *building cute things with code*
-
-</div>
+<p align="center">
+  <sub>"The code is the foundation, the design is the soul."</sub>
+</p>
