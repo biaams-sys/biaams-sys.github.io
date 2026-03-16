@@ -9,7 +9,7 @@ Desenvolvedora de Sistemas focada em **Engenharia de Software Mobile** e **Siste
 
 ---
 
-### 🚀 Minhas Skills
+###  Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C++"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -21,7 +21,7 @@ Desenvolvedora de Sistemas focada em **Engenharia de Software Mobile** e **Siste
 
 ---
 
-### 🎨 UI/UX Design Portfolio (Figma)
+###  UI/UX Design Portfolio (Figma)
 *Arquitetura visual e fluxos desenvolvidos para soluções mobile e web.*
 
 * **Mobile Olympiad Design System** – Componentes otimizados para alta performance.
@@ -40,6 +40,7 @@ Desenvolvedora de Sistemas focada em **Engenharia de Software Mobile** e **Siste
 ### 📊 Engineering Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=biaams-sys&show_icons=true&theme=rose&hide_border=true&title_color=e11d48&text_color=525252" alt="Stats">
+  <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaams-sys&layout=compact&theme=rose&hide_border=true&title_color=e11d48&text_color=525252" alt="Langs">
 </p>
