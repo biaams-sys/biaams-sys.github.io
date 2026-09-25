@@ -1,94 +1,446 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfólio - Beatriz</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Beatriz Albuquerque — Portfólio</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-  <header>
-    <h1>Portfólio</h1>
-    <nav>
-      <ul>
-        <li><a href="#sobre">Sobre</a></li>
-        <li><a href="#formacao">Formação</a></li>
-        <li><a href="#projetos">Projetos</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#contato">Contato</a></li>
-      </ul>
-    </nav>
-  </header>
 
-  <section id="sobre" class="sobre">
-    <div class="sobre-foto">
-      <img src="foto-minha.jpg" alt="Foto de perfil Beatriz">
+  <section id="hero">
+    <div class="eyebrow-row">
+      <span>PORTFÓLIO</span>
     </div>
-    <div class="sobre-texto">
-      <h2>Sobre Mim</h2>
-      <p>Olá! Meu nome é Beatriz e sou estudante de Desenvolvimento de Sistemas.
-        Minha paixão por essa área surgiu com o apoio da minha família.
-        Estou focada em front-end e back-end.
-        Motivada a aplicar meus conhecimentos em projetos práticos.
-        Este portfólio compartilha meu trabalho e interesse por tecnologia.</p>
+
+    <div class="hero-inner">
+
+      <nav class="desktop-icons">
+
+        <button class="dicon cursored" data-scroll="sobre">
+          <svg viewBox="0 0 24 20" fill="none">
+            <path
+              d="M1 4a2 2 0 0 1 2-2h5l2 2h11a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V4Z"
+              fill="#fff"
+              fill-opacity=".9"
+            />
+          </svg>
+          Sobre mim
+        </button>
+
+        <button class="dicon" data-scroll="projetos">
+          <svg viewBox="0 0 24 20" fill="none">
+            <path
+              d="M1 4a2 2 0 0 1 2-2h5l2 2h11a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V4Z"
+              fill="#fff"
+              fill-opacity=".9"
+            />
+          </svg>
+          Projetos
+        </button>
+
+        <button class="dicon" data-scroll="foto">
+          <svg viewBox="0 0 24 20" fill="none">
+            <path
+              d="M1 4a2 2 0 0 1 2-2h5l2 2h11a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V4Z"
+              fill="#fff"
+              fill-opacity=".9"
+            />
+          </svg>
+          Fotografia
+        </button>
+
+      </nav>
+
+      <div class="hero-title-wrap">
+        <h1 class="hero-title script">Portfólio</h1>
+        <p class="hero-sub">Beatriz Albuquerque</p>
+      </div>
+
+      <nav class="desktop-icons right">
+
+        <button class="dicon" data-scroll="contato">
+          <svg viewBox="0 0 24 20" fill="none">
+            <path
+              d="M1 4a2 2 0 0 1 2-2h5l2 2h11a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V4Z"
+              fill="#fff"
+              fill-opacity=".9"
+            />
+          </svg>
+          Contato
+        </button>
+
+      </nav>
+
     </div>
+
+    <span class="hero-cat">
+      desenvolvimento de sistemas &amp; fotografia
+    </span>
   </section>
 
-  <section id="formacao" class="formacao">
-    <h2>Formação</h2>
-    <div class="card">
-      <h3>Desenvolvimento de Sistemas</h3>
-      <p><strong>Instituição:</strong> SENAI</p>
-      <p><strong>Período:</strong> 2025/2026</p>
-      <p><strong>Conhecimentos:</strong> HTML, CSS, JavaScript</p>
+
+  <section id="sobre">
+
+    <div class="eyebrow-row">
+      <span>PORTFÓLIO CRIATIVO</span>
     </div>
-    <div class="card">
-      <h3>Excel Básico</h3>
-      <p><strong>Instituição:</strong> SENAI</p>
-      <p><strong>Ano:</strong> 2025</p>
-      <p><strong>Conhecimentos:</strong> Criação de planilhas, edição de dados, fórmulas simples,
-        funções, formatação, gráficos básicos.</p>
+
+    <div class="about-grid">
+
+      <div>
+
+        <p class="what-i-do script">
+          o que eu faço
+        </p>
+
+        <p>
+          Meu nome é Beatriz e eu transito entre dois mundos: escrevo código e clico fotos.
+          Do lado dev, curto construir sistemas — do back-end à lógica que faz tudo funcionar.
+          Do lado da fotografia, faço ensaios livres com minhas amigas, num estilo mais solto
+          e visual, inspirado no Pinterest.
+        </p>
+
+        <p>
+          Gosto de projetos onde consigo pensar tanto na estrutura quanto na estética —
+          um sistema bem organizado tem a mesma satisfação de uma composição bem enquadrada.
+        </p>
+
+      </div>
+
+      <div class="avatar-card">
+        <img class="avatar-image" src="fotos/bia.JPG" alt="Beatriz Albuquerque">
+        <span class="tag">@biaams-sys</span>
+      </div>
+
     </div>
+
   </section>
 
-  <section id="projetos" class="projetos">
-  <h2>Projetos</h2>
-  <div class="card">
-    <h3>Projeto 1 - ALVO-AMAIS</h3>
-    <p>Projeto SharkTank.</p>
-    <a href="https://github.com/maferoliveira/ALVO-AMAIS.git" target="_blank" class="btn">Ver no GitHub</a>
+
+  <section id="skills">
+
+    <div class="eyebrow-row">
+      <span>PORTFÓLIO CRIATIVO</span>
+    </div>
+
+    <h2 class="skills-title script">
+      minhas skills
+    </h2>
+
+    <p class="skills-sub script">
+      o que eu sei fazer
+    </p>
+
+    <div class="pill-field">
+
+      <span class="pill">
+        Desenvolvimento de Sistemas
+      </span>
+
+      <span class="pill">
+        Back-end
+      </span>
+
+      <span class="pill">
+        Git &amp; GitHub
+      </span>
+
+      <span class="pill">
+        Fotografia
+      </span>
+
+      <span class="pill">
+        Edição de Imagem
+      </span>
+
+      <span class="pill">
+        Bancos de Dados
+      </span>
+
+    </div>
+
+  </section>
+
+
+  <section id="projetos" class="on-light">
+
+    <div class="eyebrow-row">
+      <span>PORTFÓLIO CRIATIVO</span>
+    </div>
+
+    <h2 class="proj-title script">
+      projetos
+    </h2>
+
+    <p class="proj-lede">
+      Uma seleção dos meus projetos de desenvolvimento.
+    </p>
+
+
+    <div class="proj-list">
+
+
+      <div>
+
+        <a
+          href="https://cafeteria-react-two.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="project-link"
+        >
+
+          <div class="laptop">
+
+            <div class="screen">
+              <span class="ptag script">
+                projeto 1
+              </span>
+            </div>
+
+            <div class="base"></div>
+
+          </div>
+
+        </a>
+
+
+        <div class="proj-meta">
+
+          <div class="name">
+            Cafeteria — React
+          </div>
+
+          <div class="desc">
+            Projeto de cafeteria desenvolvido com React, com interface web para apresentação dos produtos e navegação.
+          </div>
+
+          <span class="status">
+            VER PROJETO →
+          </span>
+
+        </div>
+
+      </div>
+
+
+
+      <div>
+
+        <a
+          href="https://github.com/biaams-sys/desafio_gasolina.git"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="project-link"
+        >
+
+          <div class="laptop">
+
+            <div class="screen">
+              <span class="ptag script">
+                projeto 2
+              </span>
+            </div>
+
+            <div class="base"></div>
+
+          </div>
+
+        </a>
+
+
+        <div class="proj-meta">
+
+          <div class="name">
+            Desafio Gasolina — Flutter
+          </div>
+
+          <div class="desc">
+            Projeto desenvolvido em Flutter, disponível no GitHub.
+          </div>
+
+          <span class="status">
+            VER NO GITHUB →
+          </span>
+
+        </div>
+
+      </div>
+
+
+    </div>
+
+
+    <a
+      class="gh-link"
+      href="https://github.com/biaams-sys"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Ver todos os repositórios no GitHub →
+    </a>
+
+  </section>
+
+
+  <section id="foto">
+
+    <div class="eyebrow-row">
+      <span>PORTFÓLIO CRIATIVO</span>
+    </div>
+
+    <h2 class="foto-title script">
+      fotografia
+    </h2>
+
+    <p class="foto-lede">
+      Ensaios livres, sempre com muita luz natural e amigas como musas — estilo Pinterest.
+    </p>
+
+
+    <div class="foto-grid">
+
+      <div class="frame">
+        <img
+          src="fotos/imagem.JPG"
+          alt="Fotografia por Beatriz Albuquerque"
+        >
+        <span class="cap">golden hour</span>
+      </div>
+
+      <div class="frame">
+        <img
+          src="fotos/imagem2.JPG"
+          alt="Fotografia por Beatriz Albuquerque"
+        >
+        <span class="cap">retrato</span>
+      </div>
+
+      <div class="frame">
+        <img
+          src="fotos/imagem3.JPG"
+          alt="Fotografia por Beatriz Albuquerque"
+        >
+        <span class="cap">candid</span>
+      </div>
+
+      <div class="frame">
+        <img
+          src="fotos/imagem4.JPG"
+          alt="Fotografia por Beatriz Albuquerque"
+        >
+        <span class="cap">ensaio</span>
+      </div>
+
+      <div class="frame">
+        <img
+          src="fotos/imagem5.JPG"
+          alt="Fotografia por Beatriz Albuquerque"
+        >
+        <span class="cap">lifestyle</span>
+      </div>
+
+      <div class="frame">
+        <img
+          src="fotos/imagem8.JPG"
+          alt="Fotografia por Beatriz Albuquerque"
+        >
+        <span class="cap">fotografia</span>
+      </div>
+
+      <div class="frame">
+        <img
+          src="fotos/imagem7.JPG"
+          alt="Fotografia por Beatriz Albuquerque"
+        >
+        <span class="cap">câmera</span>
+      </div>
+
+      
+
+    </div>
+
+  </section>
+
+
+  <section id="contato">
+
+    <div class="eyebrow-row">
+      <span>PORTFÓLIO CRIATIVO</span>
+    </div>
+
+    <h2 class="contato-title script">
+      vamos trabalhar
+    </h2>
+
+    <p class="contato-sub script">
+      fala comigo
+    </p>
+
+    <div class="contato-links">
+
+      <a
+        class="clink a"
+        href="mailto:biaams16@gmail.com"
+      >
+        biaams16@gmail.com
+      </a>
+
+      <a
+        class="clink b"
+        href="https://instagram.com/beatrizalbm"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        @beatrizalbm
+      </a>
+
+      <a
+        class="clink c"
+        href="https://github.com/biaams-sys"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        github.com/biaams-sys
+      </a>
+
+    </div>
+
+  </section>
+
+
+  <div class="taskbar">
+
+    <span class="menu">
+      ☰
+    </span>
+
+    <span class="search">
+      Buscar…
+    </span>
+
+    <span class="spacer"></span>
+
+    <span class="stat">
+      Beatriz Albuquerque
+    </span>
+
   </div>
-  <div class="card">
-    <h3>Projeto 2 - DAYLIFT</h3>
-    <p>Projeto DayLift.</p>
-    <a href=" https://beatrizalbuquerquesenai.my.canva.site/daylift" target="_blank" class="btn">Ver no GitHub</a>
-  </div>
-</section>
 
-  <section id="skills" class="skills">
-    <h2>Skills</h2>
-    <ul>
-      <li>Comunicação</li>
-      <li>Liderança</li>
-      <li>Ética</li>
-      <li>Proatividade</li>
-      <li>Adaptabilidade</li>
-      <li>Pensamento Crítico</li>
-      <li>Trabalho em equipe</li>
-      <li>Criatividade</li>
-      <li>Tomada de decisões</li>
-    </ul>
-  </section>
 
-  <section id="contato" class="contato">
-    <h2>Contato</h2>
-    <p>Email: biaams16@email.com</p>
-    <p>LinkedIn: linkedin.com/in/biaams-sys</p>
-    <button>Entre em Contato</button>
-  </section>
+  <script src="script.js"></script>
 
-  <footer>
-    <p>&copy; biaams-sys - Todos os direitos reservados</p>
-  </footer>
 </body>
+
 </html>
