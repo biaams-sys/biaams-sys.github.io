@@ -766,3 +766,276 @@ button {
   object-position: center;
   display: block;
 }
+
+/* =========================
+   PESSOAS QUE ME INSPIRAM
+========================= */
+#inspiracoes {
+  background: var(--blue);
+  color: var(--paper);
+  padding: 110px 8vw 180px;
+  position: relative;
+  overflow: hidden;
+}
+
+#inspiracoes .eyebrow-row {
+  color: var(--paper);
+}
+
+#inspiracoes .inspiracoes-title {
+  display: block;
+  width: 100%;
+  max-width: 950px;
+  margin: 35px 0 18px;
+  color: var(--yellow);
+  font-family: "Kaushan Script", cursive;
+  font-size: clamp(3.2rem, 6vw, 6rem);
+  font-weight: 400;
+  line-height: 1;
+}
+
+#inspiracoes .inspiracoes-lede {
+  max-width: 650px;
+  margin: 0 0 50px;
+  color: var(--paper);
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+#inspiracoes .crossword-wrap {
+  width: 100%;
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 35px;
+  box-sizing: border-box;
+  background: var(--paper);
+  color: var(--ink);
+  border: 3px solid var(--ink);
+  border-radius: 18px;
+  box-shadow: 12px 12px 0 var(--ink);
+}
+
+#inspiracoes .crossword-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 22px;
+  width: fit-content;
+  margin: 0 auto 40px;
+  padding: 9px 18px;
+  background: var(--yellow);
+  color: var(--ink);
+  border: 2px solid var(--ink);
+  border-radius: 5px;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: .8rem;
+  font-weight: 800;
+  letter-spacing: .12em;
+}
+
+#inspiracoes .crossword-grid {
+  width: min(100%, 560px);
+  margin: 0 auto 55px;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(7, 1fr);
+  aspect-ratio: 8 / 7;
+  border-top: 2px solid var(--ink);
+  border-left: 2px solid var(--ink);
+  background: var(--ink);
+}
+
+#inspiracoes .cross-cell {
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  box-sizing: border-box;
+  background: var(--paper);
+  border-right: 2px solid var(--ink);
+  border-bottom: 2px solid var(--ink);
+}
+
+#inspiracoes .cross-cell.black {
+  background: var(--ink);
+}
+
+#inspiracoes .cross-cell input {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  padding: 8px 4px 3px;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: var(--blue);
+  text-align: center;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: clamp(1rem, 2.2vw, 1.5rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  caret-color: var(--blue);
+}
+
+#inspiracoes .cross-cell input:focus {
+  background: rgba(76, 95, 240, .12);
+}
+
+#inspiracoes .cell-number {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  z-index: 2;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: .48rem;
+  font-weight: 800;
+  line-height: 1;
+  pointer-events: none;
+}
+
+#inspiracoes .crossword-clues {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 70px;
+  width: 100%;
+}
+
+#inspiracoes .clues-column {
+  min-width: 0;
+}
+
+#inspiracoes .clues-column h3 {
+  display: inline-block;
+  margin: 0 0 25px;
+  padding: 8px 14px;
+  background: var(--blue);
+  color: var(--paper);
+  border-radius: 6px;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: .75rem;
+  font-weight: 800;
+  letter-spacing: .1em;
+}
+
+#inspiracoes .clue {
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  gap: 10px;
+  margin-bottom: 25px;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: .9rem;
+  line-height: 1.5;
+}
+
+#inspiracoes .clue strong {
+  font-weight: 800;
+}
+
+#inspiracoes .clue i {
+  font-style: italic;
+}
+
+#inspiracoes .crossword-action {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 35px;
+}
+
+#inspiracoes #check-crossword {
+  border: 2px solid var(--ink);
+  border-radius: 6px;
+  padding: 12px 20px;
+  background: var(--blue);
+  color: var(--paper);
+  font-family: "Space Grotesk", sans-serif;
+  font-size: .75rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  cursor: pointer;
+}
+
+#inspiracoes #check-crossword:hover {
+  background: var(--yellow);
+  color: var(--ink);
+}
+
+#inspiracoes #crossword-result {
+  min-height: 24px;
+  margin: 14px 0 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: .85rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+#inspiracoes .cross-cell.correct {
+  background: #a4de5c;
+}
+
+#inspiracoes .cross-cell.wrong {
+  background: #ff8f8f;
+}
+
+#inspiracoes .crossword-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 25px;
+  padding-top: 20px;
+  border-top: 2px dashed var(--ink);
+  font-family: "Space Grotesk", sans-serif;
+  font-size: .75rem;
+  font-weight: 700;
+}
+
+#inspiracoes .crossword-footer .script {
+  color: var(--blue);
+  font-family: "Kaushan Script", cursive;
+  font-size: 1.25rem;
+}
+
+@media (max-width: 760px) {
+
+  #inspiracoes {
+    padding: 80px 5vw 130px;
+  }
+
+  #inspiracoes .inspiracoes-title {
+    font-size: 3.3rem;
+  }
+
+  #inspiracoes .crossword-wrap {
+    padding: 18px;
+    box-shadow: 7px 7px 0 var(--ink);
+  }
+
+  #inspiracoes .crossword-title {
+    margin-bottom: 30px;
+    gap: 10px;
+    font-size: .68rem;
+  }
+
+  #inspiracoes .crossword-grid {
+    width: 100%;
+    margin-bottom: 35px;
+  }
+
+  #inspiracoes .crossword-clues {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  #inspiracoes .clue {
+    font-size: .84rem;
+  }
+
+  #inspiracoes .crossword-footer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+}
